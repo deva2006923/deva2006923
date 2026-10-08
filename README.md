@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6A11CB,100:2575FC&height=260&section=header&text=Deva%20Prakassh&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%20%2F%20ML%20Engineer%20in%20the%20making%20%7C%20Full%20Stack%20Builder&descAlignY=62&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6A11CB,100:2575FC&height=260&section=header&text=Deva%20Prakassh&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%20%2F%20ML%20Enthusiast%20%7C%20Full%20Stack%20Builder&descAlignY=62&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2575FC&center=true&vCenter=true&width=700&lines=Java+%7C+Python+%7C+SQL+Developer;AI%2FML+%26+RAG+Pipeline+Builder;LLM+Agents+%26+Applied+AI;B.Tech+AIDS+%40+VSB+Engineering+College;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
@@ -15,28 +15,50 @@
 
 <img src="https://komarev.com/ghpvc/?username=deva2006923&label=Profile%20Views&color=6A11CB&style=flat-square" />
 
+<br/><br/>
+
+<a href="#about-me">About</a> &nbsp;•&nbsp;
+<a href="#featured-projects">Projects</a> &nbsp;•&nbsp;
+<a href="#experience">Experience</a> &nbsp;•&nbsp;
+<a href="#tech-stack">Tech Stack</a> &nbsp;•&nbsp;
+<a href="#github-stats">GitHub Stats</a> &nbsp;•&nbsp;
+<a href="#leetcode-progress">LeetCode</a> &nbsp;•&nbsp;
+<a href="#education">Education</a> &nbsp;•&nbsp;
+<a href="#lets-connect">Contact</a>
+
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-```yaml
-name: "Deva Prakassh M J"
-role: "AI/ML Enthusiast & Full-Stack Developer"
-education: "B.Tech in AI & Data Science, VSB Engineering College (2023 - 2027)"
-cgpa: "8.28 / 10"
-location: "Karur, Tamil Nadu, India"
-focus: ["Machine Learning", "NLP", "AI Agents", "RAG Pipelines", "Full-Stack Development"]
-languages_known: ["English", "Tamil"]
-currently_exploring: "Autonomous LLM Agents & Applied AI Systems"
-open_to: "Internships and entry-level roles in AI/ML and Software Development"
-fun_fact: "I turn ideas into working AI-powered prototypes 🚀"
-```
+<table>
+<tr>
+<td width="55%" valign="top">
 
----
+Hi, I'm **Deva Prakassh M J**, a final-year **B.Tech AI & Data Science** student who loves turning ideas into working AI-powered products.
 
-## ⚡ Highlights
+I build **machine learning models, NLP systems, RAG pipelines and LLM agents**, and I sharpen my problem-solving on LeetCode, mostly in Java.
+
+🌱 Currently exploring **autonomous LLM agents and applied AI systems**
+🎯 Open to **internships and entry-level roles** in AI/ML and software development
+🚀 I turn ideas into working prototypes
+
+</td>
+<td width="45%" valign="top">
+
+| Quick Facts | |
+|---|---|
+| 🎓 **Education** | B.Tech AI & DS, VSB Engineering College |
+| 📅 **Batch** | 2023 – 2027 |
+| 📊 **CGPA** | 8.28 / 10 |
+| 📍 **Location** | Karur, Tamil Nadu, India |
+| 🔭 **Focus** | ML, NLP, AI Agents, RAG |
+| 🗣️ **Languages** | English, Tamil |
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
@@ -48,61 +70,50 @@ fun_fact: "I turn ideas into working AI-powered prototypes 🚀"
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/deva2006923/phishguard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=deva2006923&repo=phishguard&theme=tokyonight&border_radius=15&hide_border=true" width="48%"/>
-</a>
-<a href="https://github.com/deva2006923/lead-qualification-agent">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=deva2006923&repo=lead-qualification-agent&theme=tokyonight&border_radius=15&hide_border=true" width="48%"/>
-</a>
-<a href="https://github.com/deva2006923/OMNICURE-AI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=deva2006923&repo=OMNICURE-AI&theme=tokyonight&border_radius=15&hide_border=true" width="48%"/>
-</a>
-<a href="https://github.com/deva2006923/FINTECH">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=deva2006923&repo=FINTECH&theme=tokyonight&border_radius=15&hide_border=true" width="48%"/>
-</a>
-
-</div>
-
-<br/>
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ [PhishGuard](https://github.com/deva2006923/phishguard)
-Real-time **AI/ML phishing detection and prevention system**. Parses URLs and suspicious web content to detect phishing with **95% accuracy**, and raises live alerts to protect users from malicious domains.
+### 🛡️ Phishing Detection & Prevention System
+Developed a real-time machine learning model to parse URLs and suspicious web content, achieving **95% accuracy** in phishing detection. Engineered a live alerting mechanism to protect end users from malicious domains.
 
 `Python` `Machine Learning` `Cybersecurity`
+
+[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github)](https://github.com/deva2006923/phishguard)
 
 </td>
 <td width="50%" valign="top">
 
-### 📈 [LeadIQ: Lead Qualification Agent](https://github.com/deva2006923/lead-qualification-agent)
-Full-stack **B2B sales engine** that scores inbound leads with an **XGBoost** classifier. An autonomous **LLM agent** with a **Pinecone RAG pipeline** generates grounded outreach emails.
+### 📈 LeadIQ: Lead Qualification Agent
+Built a full-stack B2B sales engine using an **XGBoost** classification model to score inbound leads. Integrated a **Pinecone** vector database and a **RAG pipeline** with an autonomous **LLM agent** to generate grounded outreach emails.
 
 `XGBoost` `LLM Agents` `Pinecone` `RAG`
+
+[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github)](https://github.com/deva2006923/lead-qualification-agent)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🩺 [OmniCure AI](https://github.com/deva2006923/OMNICURE-AI)
-AI-powered **clinical assistant** that parses lab reports and predicts disease risk through a **RAG pipeline powered by Groq LLM**. Includes secure OTP authentication and a multi-turn chatbot for report-based queries.
+### 🩺 OmniCure AI
+Built an AI-powered clinical assistant that parses lab reports and predicts disease risk using a **RAG pipeline powered by Groq LLM**. Features secure OTP authentication and a multi-turn conversational bot for report-based queries.
 
 `Groq` `RAG` `Healthcare AI` `Authentication`
+
+[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github)](https://github.com/deva2006923/OMNICURE-AI)
 
 </td>
 <td width="50%" valign="top">
 
-### 💳 [Fintech](https://github.com/deva2006923/FINTECH)
-A fintech project from my full-stack and applied AI work. See the repository for the full details and setup.
+### 💳 Smart Expense Tracker (Fintech)
+AI-powered financial ledger that categorizes transactions (**TF-IDF + Naive Bayes**), detects anomalies (**Isolation Forest**) and forecasts spending (**Linear Regression**). Includes Google OAuth login with per-user data isolation, family groups with invitations, and a multi-turn AI assistant.
 
-`Full Stack` `Fintech`
+`Python` `Streamlit` `Scikit-learn` `Gemini API`
+
+[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github)](https://github.com/deva2006923/FINTECH)
 
 </td>
 </tr>
@@ -110,15 +121,15 @@ A fintech project from my full-stack and applied AI work. See the repository for
 
 ---
 
-## 💼 Experience
+## Experience
 
 | Role | Company | What I did |
 |---|---|---|
-| **Front-End Intern** | Let's Game Tech, Coimbatore | Developed responsive front-end layouts with HTML, CSS, and UI frameworks that improved user engagement by **15%**. |
+| **Front-End Intern** | Let's Game Tech, Coimbatore | Developed front-end layouts that improved user engagement by **15%** through responsive design using HTML, CSS, and UI frameworks. |
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -144,33 +155,29 @@ A fintech project from my full-stack and applied AI work. See the repository for
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=deva2006923&show_icons=true&theme=tokyonight&border_radius=15&hide_border=true&count_private=true" width="48%" />
-<img src="https://streak-stats.demolab.com/?user=deva2006923&theme=tokyonight&border_radius=15&hide_border=true" width="48%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deva2006923&layout=compact&theme=tokyonight&border_radius=15&hide_border=true" width="60%" />
+![Followers](https://img.shields.io/github/followers/deva2006923?style=for-the-badge&logo=github&color=6A11CB)
+![Repos](https://img.shields.io/badge/Public%20Repos-View%20All-2575FC?style=for-the-badge&logo=github)
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=deva2006923&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=deva2006923&show_icons=true&theme=tokyonight&border_radius=15&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deva2006923&layout=compact&theme=tokyonight&border_radius=15&hide_border=true" width="48%" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=deva2006923&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+**Contribution Heatmap**
 
-### 📅 Contribution Heatmap
 <img src="https://ghchart.rshah.org/6A11CB/deva2006923" width="100%" alt="GitHub contribution heatmap"/>
 
 </div>
 
 ---
 
-## 🧩 LeetCode Progress
+## LeetCode Progress
 
 <div align="center">
 
@@ -189,7 +196,7 @@ A fintech project from my full-stack and applied AI work. See the repository for
 
 ---
 
-## 🎓 Education
+## Education
 
 | Degree | Institution | Score | Year |
 |---|---|---|---|
@@ -197,15 +204,15 @@ A fintech project from my full-stack and applied AI work. See the repository for
 | Class XII | Sri Ramakrishna Public School | 86% | 2022 – 2023 |
 | Class X | Sri Ramakrishna Public School | 90% | 2020 – 2021 |
 
-## 📜 Certifications
+### Certifications
 
-![AI Primer](https://img.shields.io/badge/Artificial%20Intelligence%20Primer-6A11CB?style=flat-square&logo=awesomelists&logoColor=white)
-![Data Modeling](https://img.shields.io/badge/Multidimensional%20and%20Data%20Modeling-2575FC?style=flat-square&logo=awesomelists&logoColor=white)
+![AI Primer](https://img.shields.io/badge/Artificial%20Intelligence%20Primer-6A11CB?style=flat-square)
+![Data Modeling](https://img.shields.io/badge/Multidimensional%20and%20Data%20Modeling-2575FC?style=flat-square)
 ![ML AWS](https://img.shields.io/badge/Machine%20Learning%20in%20AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
 
